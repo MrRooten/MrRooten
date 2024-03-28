@@ -3,15 +3,6 @@
   <img align="right" src="https://github-readme-stats-two-theta-93.vercel.app/api?username=MrRooten&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
 </a>
 
-# 🔭 Working on
-[`KitX` -> Toolbox](https://github.com/Crequency/KitX)  
-[`Competition` -> OI](https://github.com/MrRooten/Competition)  
-[`CppEnhanced`-> More utils for Cpp](https://github.com/MrRooten/CppEnhanced)  
-[`Common.Algorithm`-> Nice algorithms lib](https://github.com/Crequency/Common.Algorithm)  
-[`Common.BasicHelper`-> C# utils lib](https://github.com/Crequency/Common.BasicHelper)  
-[`Prouter` -> Cpp algorithm tracer/visualizer](https://github.com/MrRooten/Prouter)  
-[`Csharpell` -> REPL for csharp](https://github.com/MrRooten/Csharpell)  
-
 <br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
